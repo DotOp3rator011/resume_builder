@@ -6,7 +6,7 @@ const Experience = (props) => {
     const {} = props;
 
     return (
-        <React.Fragment>
+        <div className={"experience-container"}>
             <div>
                 <h3>Software Developer</h3>
                 <span className={"blue-text"}>Playo</span>
@@ -105,7 +105,7 @@ const Experience = (props) => {
                     </ul>
                 </div>
             </div>
-        </React.Fragment>
+        </div>
     )
 };
 

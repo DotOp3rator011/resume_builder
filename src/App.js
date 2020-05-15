@@ -17,23 +17,23 @@ function App() {
                     <Experience/>
                 </div>
                 <div className={"right-pane"}>
-                    <div>
+                    <div className={"right-pane-item"}>
                         <span className={"section-name"}>SUMMARY</span>
                         <Summary/>
                     </div>
-                    <div>
+                    <div className={"right-pane-item"}>
                         <span className={"section-name"}>SKILLS</span>
                         <Skills/>
                     </div>
-                    <div>
+                    <div className={"right-pane-item"}>
                         <span className={"section-name"}>EDUCATION</span>
                         <Education/>
                     </div>
-                    <div>
+                    <div className={"right-pane-item"}>
                         <span className={"section-name"}>INTERESTS</span>
                         <Interests/>
                     </div>
-                    <div>
+                    <div className={"right-pane-item"}>
                         <span className={"section-name"}>FIND ME ONLINE</span>
                         <FindMeOnline/>
                     </div>

@@ -13,7 +13,7 @@ const FindMeOnline = (props) => {
                 </div>
                 <div className={"flex-column"}>
                     <h5>LinkedIn</h5>
-                    <a>https://www.linkedin.com/in/rahul-pugal</a>
+                    <a href={"https://www.linkedin.com/in/rahul-pugal"}>https://www.linkedin.com/in/rahul-pugal</a>
                 </div>
             </div>
             <div className={"find-me-item"}>
@@ -22,7 +22,7 @@ const FindMeOnline = (props) => {
                 </div>
                 <div className={"flex-column"}>
                     <h5>GitHub</h5>
-                    <a>https://github.com/DotOp3rator011</a>
+                    <a href={"https://github.com/DotOp3rator011"}>https://github.com/DotOp3rator011</a>
                 </div>
             </div>
         </div>
