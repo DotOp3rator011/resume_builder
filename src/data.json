@@ -1,0 +1,128 @@
+{
+  "name": "RAHUL PUGAL",
+  "role": "Software Engineer",
+  "contactData": {
+    "phone": "+91 9036240308",
+    "email": "rahulpugal.0308@gmail.com",
+    "location": "Bangalore, India"
+  },
+  "experienceData": [
+    {
+      "role": "Software Developer",
+      "company": "Playo",
+      "period": "07/2018 - Ongoing",
+      "location": "Bangalore, India",
+      "description": [
+        {
+          "title": "Lead Developer - Playo Booking Engine",
+          "info": "Re-architectured and developed the Playo Booking Engine by leveraging a microservice architecture. The booking engine powers the Playo App, Playo's Partner Console and  Playo's Admin Panel."
+        },
+        {
+          "title": "Lead Developer - Playo Wallet",
+          "info": "Architectured and developed a closed e-wallet and vouchers system."
+        },
+        {
+          "title": "",
+          "info": "API integration for third-party booking systems and payment gateways."
+        }
+      ]
+    },
+    {
+      "role": "Software Engineer Trainee",
+      "company": "MountBlue Technologies",
+      "period": "05/2018 - 07/2018",
+      "location": "Bangalore, India",
+      "description": [
+        {
+          "title": "",
+          "info": "Responsive web design."
+        },
+        {
+          "title": "",
+          "info": "Web development using React JS."
+        },
+        {
+          "title": "",
+          "info": "Building RESTful API using Python's Django REST Framework."
+        },
+        {
+          "title": "",
+          "info": "Product development using AGILE methodologies and version control."
+        }
+      ]
+    },
+    {
+      "role": "Python Engineer (Intern)",
+      "company": "Primenumbers Technologies",
+      "period": "11/2017 - 12/2017",
+      "location": "Bangalore, India",
+      "description": [
+        {
+          "title": "",
+          "info": "Building scalable web spiders in python."
+        },
+        {
+          "title": "",
+          "info": "Deploying web spiders on scalable cloud systems."
+        },
+        {
+          "title": "",
+          "info": "Scrapping web-based and document-based resources for lead generation."
+        }
+      ]
+    },
+    {
+      "role": "Part-Time Sales Manager",
+      "company": "Decathlon Sports India",
+      "period": "10/2015 - 07/2016",
+      "location": "Bangalore, India",
+      "description": [
+        {
+          "title": "",
+          "info": "Maintain sales volume, product mix, and selling price by keeping current with supply and demand."
+        },
+        {
+          "title": "",
+          "info": "Approach browsing customers and initiate a conversation to determine buying preferences."
+        }
+      ]
+    }
+  ],
+  "summary": "Bootcamp trained developer with a Bachelor’s degree in Computer Applications, having over one plus years of professional experience at Playo and additional internship experiences, I offer various skills in the domain of Software Design and Development.",
+  "skills": [
+    "Python / Django",
+    "Node JS",
+    "Microservices",
+    "RESTful Web Services",
+    "React JS",
+    "MySQL",
+    "Mongo DB"
+  ],
+  "educationData": [
+    {
+      "title": "Bachelor's Degree in Computer Applications",
+      "institution": "Reva University",
+      "period": "2015 - 2018",
+      "grade": "CGPA 7.7 / 10"
+    }
+  ],
+  "interests": [
+    "Travel",
+    "Football",
+    "Fishing",
+    "Gaming",
+    "Tv Shows"
+  ],
+  "findMeOnlineData": {
+    "LinkedIn": {
+      "platform": "LinkedIn",
+      "icon": "fa fa-linkedin",
+      "link": "https://www.linkedin.com/in/rahul-pugal"
+    },
+    "gitHub": {
+      "platform": "GitHub",
+      "icon": "fa fa-github-alt",
+      "link": "https://github.com/DotOp3rator011"
+    }
+  }
+}

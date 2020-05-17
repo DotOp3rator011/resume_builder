@@ -15,7 +15,7 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: flex-start;
-  padding: 8% 5%;
+  padding: 5%;
 }
 
 .resume-edit-container {
@@ -105,13 +105,11 @@ h3 {
 .experience-container {
   display: flex;
   flex-direction: column;
-  flex-basis: 100%;
   justify-content: space-between;
 }
 
 .experience-description {
   margin-left: 18px;
-  margin-bottom: 25px;
 }
 
 ul {

@@ -6,41 +6,45 @@ import Skills from "./components/skills";
 import Education from "./components/education";
 import Interests from "./components/interests";
 import FindMeOnline from "./components/findMeOnline";
+import data from "./data"
 
-function App() {
-    return (
-        <div className={"resume-container"}>
-            <Header/>
-            <div className={"flex-row"}>
-                <div className={"left-pane"}>
-                    <span className={"section-name"}>EXPERIENCE</span>
-                    <Experience/>
-                </div>
-                <div className={"right-pane"}>
-                    <div className={"right-pane-item"}>
-                        <span className={"section-name"}>SUMMARY</span>
-                        <Summary/>
+class App extends React.Component {
+
+    render() {
+        return (
+            <div className={"resume-container"}>
+                <Header name={data.name} role={data.role} contactData={data.contactData}/>
+                <div className={"flex-row"}>
+                    <div className={"left-pane"}>
+                        <span className={"section-name"}>EXPERIENCE</span>
+                        <Experience experienceData={data.experienceData}/>
                     </div>
-                    <div className={"right-pane-item"}>
-                        <span className={"section-name"}>SKILLS</span>
-                        <Skills/>
-                    </div>
-                    <div className={"right-pane-item"}>
-                        <span className={"section-name"}>EDUCATION</span>
-                        <Education/>
-                    </div>
-                    <div className={"right-pane-item"}>
-                        <span className={"section-name"}>INTERESTS</span>
-                        <Interests/>
-                    </div>
-                    <div className={"right-pane-item"}>
-                        <span className={"section-name"}>FIND ME ONLINE</span>
-                        <FindMeOnline/>
+                    <div className={"right-pane"}>
+                        <div className={"right-pane-item"}>
+                            <span className={"section-name"}>SUMMARY</span>
+                            <Summary summary={data.summary}/>
+                        </div>
+                        <div className={"right-pane-item"}>
+                            <span className={"section-name"}>SKILLS</span>
+                            <Skills skills={data.skills}/>
+                        </div>
+                        <div className={"right-pane-item"}>
+                            <span className={"section-name"}>EDUCATION</span>
+                            <Education educationData={data.educationData}/>
+                        </div>
+                        <div className={"right-pane-item"}>
+                            <span className={"section-name"}>INTERESTS</span>
+                            <Interests interests={data.interests}/>
+                        </div>
+                        <div className={"right-pane-item"}>
+                            <span className={"section-name"}>FIND ME ONLINE</span>
+                            <FindMeOnline findMeOnlineData={data.findMeOnlineData}/>
+                        </div>
                     </div>
                 </div>
             </div>
-        </div>
-    );
+        )
+    }
 }
 
 export default App;

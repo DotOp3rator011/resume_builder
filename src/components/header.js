@@ -3,31 +3,35 @@ import React from "react";
 
 const Header = (props) => {
 
-    const {} = props;
+    const {
+        name,
+        role,
+        contactData,
+    } = props;
 
     return (
         <div className={"header-container"}>
             <div className={"flex-column"}>
-                <span className={"name"}>RAHUL PUGAL</span>
-                <span className={"blue-text"}>Software Engineer</span>
+                <span className={"name"}>{name}</span>
+                <span className={"blue-text"}>{role}</span>
                 <div className={"flex-row"}>
                     <div className={"contact-item"}>
                         <div className={"contact-icon"}>
                             <i className={"fa fa-phone"}/>
                         </div>
-                        <text>+91 9036240308</text>
+                        <text>{contactData.phone}</text>
                     </div>
                     <div className={"contact-item"}>
                         <div className={"contact-icon"}>
                             <i className={"fa fa-envelope"}/>
                         </div>
-                        <text>rahulpugal.0308@gmail.com</text>
+                        <text>{contactData.email}</text>
                     </div>
                     <div className={"contact-item"}>
                         <div className={"contact-icon"}>
                             <i className={"fa fa-map-marker"}/>
                         </div>
-                        <text>Bangalore, India</text>
+                        <text>{contactData.location}</text>
                     </div>
                 </div>
             </div>
