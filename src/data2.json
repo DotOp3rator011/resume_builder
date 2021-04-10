@@ -1,0 +1,140 @@
+{
+  "name": "LAVITA MASCARENHAS",
+  "role": "Sr. Human Resources Manager",
+  "contactData": {
+    "phone": "+91 8197422856",
+    "email": "lavimas96@gmail.com",
+    "location": "Bangalore, India"
+  },
+  "experienceData": [
+    {
+      "role": "Sr. Human Resources Manager",
+      "company": "Esper Enterprise",
+      "period": "07/2018 - Ongoing",
+      "location": "Bangalore, India",
+      "description": [
+        {
+          "title": "",
+          "info": "Led the entire hiring process and hired multiple high-value resources for software development, design, sales & marketing teams in India."
+        },
+        {
+          "title": "",
+          "info": "Plan & conduct Campus Placements drive."
+        },
+        {
+          "title": "",
+          "info": "Introduced multiple employee engagement programs, feedback survey, F2F sessions to improve team bonding and enrich morale."
+        },
+        {
+          "title": "",
+          "info": "Drove the new joiner on-boarding as well as off-boarding process for the organisation."
+        },
+        {
+          "title": "",
+          "info": "Responsible for innovating, initiating and executing HR related matters, policies and procedures."
+        }
+      ]
+    },
+    {
+      "role": "HR and Marketing Manager",
+      "company": "FullThrottle Labs",
+      "period": "07/2018 - 07/2018",
+      "location": "Bangalore, India",
+      "description": [
+        {
+          "title": "",
+          "info": "Managed end - to - end recruitment process; sourcing and screening through offer negotiations, placement and on-boarding."
+        },
+        {
+          "title": "",
+          "info": "A key member of any decision-making process regarding employee communication, job evaluation, payroll and exit formalities."
+        },
+        {
+          "title": "",
+          "info": "Sourced high - caliber candidates by leveraging LinkedIn, Monster, Glassdoor and employee referrals."
+        },
+        {
+          "title": "",
+          "info": "Worked on market research, branding and social media campaigns for the company."
+        },
+        {
+          "title": "",
+          "info": "Worked as a Happiness manager to keep the employees motivated."
+        }
+      ]
+    },
+    {
+      "role": "Audit Associate",
+      "company": "KPMG Global Services",
+      "period": "07/2017 - 05/2018",
+      "location": "Bangalore, India",
+      "description": [
+        {
+          "title": "",
+          "info": "Reviewing, Analysing and interpreting the financial data."
+        },
+        {
+          "title": "",
+          "info": "Linking of Audited Financial Statements with the TB's."
+        },
+        {
+          "title": "",
+          "info": "Preparation of Bank Confirmation and Authorization letters."
+        }
+      ]
+    },
+    {
+      "role": "Sales Manager(Internship)",
+      "company": "Decathlon Sports Private Ltd",
+      "period": "05/2016 - 06/2016",
+      "location": "Bangalore, India",
+      "description": [
+        {
+          "title": "",
+          "info": "Maintain sales volume, product mix and selling by keeping current with supply and demand."
+        },
+        {
+          "title": "",
+          "info": "Approach browsing customers and initiate conversation to determine buying preference."
+        }
+      ]
+    }
+  ],
+  "summary": "A performance-driven HR professional with 3+ years of experience in core HR processes. I offer the depth of  experience  necessary  to  successfully  administer  Performance  Management  System,  Employee  Engagement,  Recruitment, Strategic planning & execution to liaise between the organization & employee.",
+  "skills": [
+    "Talent Acquisition & Retention",
+    "Employee Engagement",
+    "Employee Relations",
+    "Training & Development",
+    "Admin Administration",
+    "Performance Management",
+    "HR MIS Management"
+  ],
+  "educationData": [
+    {
+      "title": "Bachelor's of Commerce",
+      "institution": "St. Joseph's College of Commerce",
+      "period": "2014 - 2017",
+      "grade": "CGPA 4.2 / 6"
+    }
+  ],
+  "achievements": [
+    "Played a key role during the transition from Shoonya software services to Esper Enterprise.",
+    "Took the lead on standardising HR processes & drive efficiency in Data Management, Full & Final settlement at Esper Enterprise.",
+    "Student council member, designated as school secretary at St. Aloysius High School in 2011.",
+    "Won in various basketball and swimming competitions.",
+    "Volunteered for many causes and few of them being Green Plantation, conducting arts and craft classes for children."
+  ],
+  "interests": [
+    "Travel",
+    "Reading",
+    "Tv Shows"
+  ],
+  "findMeOnlineData": {
+    "LinkedIn": {
+      "platform": "LinkedIn",
+      "icon": "fa fa-linkedin",
+      "link": "https://www.linkedin.com/in/lavita-mascarenhas/"
+    }
+  }
+}

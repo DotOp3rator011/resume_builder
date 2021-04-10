@@ -13,8 +13,8 @@ const Education = (props) => {
                 <h3>{data.title}</h3>
                 <span className={"blue-text"}>{data.institution}</span>
                 <div className={"education-details-container"}>
-                    <text>{data.period}</text>
-                    <text className={"gpa-container"}>{data.grade}</text>
+                    <span>{data.period}</span>
+                    <span className={"gpa-container"}>{data.grade}</span>
                 </div>
             </div>)}
         </React.Fragment>
